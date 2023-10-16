@@ -5,9 +5,11 @@ This is my repository for Solafune's panel detection compeition.
 
 ## Model
 
-Baseline Model
+
+###
+Baseline branch:https://github.com/mjmiles198/Solafune-Panel-Detection/tree/baseline
 
 
-## Baseline
+
 
 ## Data
