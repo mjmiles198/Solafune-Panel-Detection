@@ -5,5 +5,3 @@ class DataModule():
         self.train_dir=train_dir
         self.test_dir=train_dir
         self.sample_dir=sample_dir
-
-
